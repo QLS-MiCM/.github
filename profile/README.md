@@ -10,3 +10,7 @@ Please refer to the [Workshop Repo Template](https://github.com/QLS-MiCM/Worksho
 ## Contact
 If you have questions, feedback, or requests related to a specific workshop, please reach out by **submitting an issue** on that workshop’s repository.
 You can also contact us directly via email at workshop-micm@mcgill.ca!
+
+Want to stay up to date on upcoming workshops and QLS-MiCM events?  
+**Join our mailing list** to get the latest updates delivered straight to your inbox!  
+👉 [Subscribe here](https://tinyurl.com/micmmailinglist)
