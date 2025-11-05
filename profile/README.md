@@ -4,7 +4,7 @@
 
 This repository serves as our central training hub, hosting materials, resources, and code from the various QLS-MiCM workshops and training sessions.
 
-## For Instructors
+## Instructors
 Please refer to the [Workshop Repo Template](https://github.com/QLS-MiCM/Workshop_Template) for detailed setup instructions, contribution guidelines, and repository structure for updating materials or submitting new workshops. 
 
 ## Contact
