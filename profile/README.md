@@ -4,7 +4,40 @@
 
 This repository serves as our central training hub, hosting materials, resources, and code from the various QLS-MiCM workshops and training sessions.
 
-## Instructors
+## Learning Pathways
+Not sure where to begin? The table below outlines our recommended workshop combinations, organized by theme to help you choose a learning path that fits your needs and interests.
+
+<table>
+  <tr>
+    <th>Programming Basics</th>
+    <th>R</th>
+    <th>Python</th>
+    <th>Machine Learning</th>
+    <th>RNA-seq</th>
+    <th>Genetics</th>
+  </tr>
+  <tr>
+    <td>1. <br>2. </td>
+    <td>1. <br>2. </td>
+    <td>1. <br>2. </td>
+    <td>1. <br>2. </td>
+    <td>1. <br>2. </td>
+    <td>1. <br>2. </td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><b>Pre-requisites</b></td>
+  </tr>
+  <tr>
+    <td> None </td>
+    <td> None </td>
+    <td> None </td>
+    <td> Python </td>
+    <td> R </td>
+    <td> Python </td>
+  </tr>
+</table>
+
+## Workshop Leads
 Please refer to the [Workshop Repo Template](https://github.com/QLS-MiCM/Workshop_Template) for detailed setup instructions, contribution guidelines, and repository structure for updating materials or submitting new workshops. 
 
 ## Contact
