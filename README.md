@@ -9,7 +9,6 @@ These learning pathways group the QLS-MiCM workshops into structured tracks you 
 The QLS-MiCM organization currently hosts **37 repositories** covering various computational biology and data science topics.
 
 ---
-
 ## Learning Pathways
 
 Each track below lists workshops in a recommended order:
@@ -113,3 +112,14 @@ Each track below lists workshops in a recommended order:
     <td>Intro to HPC + UNIX</td>
   </tr>
 </table>
+
+---
+
+## Contribute
+
+**See a gap in our materials?** Contact us by email with your request for a specific workshop topic at workshop-micm@mcgill.ca!
+
+**You can also propose to develop a new workshop as an instructor!**
+
+Please refer to the [Workshop Repo Template](https://github.com/QLS-MiCM/Workshop_Template) for detailed setup instructions, contribution guidelines, and repository structure for updating materials or submitting new workshops.
+If you have questions, feedback, or requests contact us directly via email at workshop-micm@mcgill.ca!
