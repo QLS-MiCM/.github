@@ -81,6 +81,7 @@ Each track below lists workshops in a recommended order:
     <th>MATLAB Track</th>
     <th>Single-Cell Analysis</th>
     <th>Structural Biology</th>
+    <th>AI Agents</th>
   </tr>
   <tr>
     <td>
@@ -98,13 +99,17 @@ Each track below lists workshops in a recommended order:
       2. <i>🚧 Gap: Protein Structure Prediction</i><br>
       3. <i>🚧 Gap: Molecular Docking</i>
     </td>
+    <td>
+      1. Intro to Agents <i>(coming soon)</i>
+    </td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><b>Pre-requisites</b></td>
+    <td colspan="4" align="center"><b>Pre-requisites</b></td>
   </tr>
   <tr>
     <td>None</td>
     <td>R Track + RNA-seq basics</td>
     <td>Python Track</td>
+    <td>Intro to HPC + UNIX</td>
   </tr>
 </table>
