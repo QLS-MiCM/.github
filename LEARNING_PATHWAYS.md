@@ -71,3 +71,40 @@ Each track below lists workshops in a recommended order:
     <td>Python Track</td>
   </tr>
 </table>
+
+---
+
+## Additional Pathways
+
+<table>
+  <tr>
+    <th>MATLAB Track</th>
+    <th>Single-Cell Analysis</th>
+    <th>Structural Biology</th>
+  </tr>
+  <tr>
+    <td>
+      1. <a href="https://github.com/QLS-MiCM/Intro-to-MATLAB">Intro to MATLAB</a><br>
+      2. <a href="https://github.com/QLS-MiCM/Exploring_MATLAB">Exploring MATLAB</a><br>
+      3. <a href="https://github.com/QLS-MiCM/ImageProcessingInMATLAB">Image Processing</a>
+    </td>
+    <td>
+      1. <a href="https://github.com/QLS-MiCM/BootcampF22_Intro_Singlecell">Intro to Single-Cell</a><br>
+      2. <a href="https://github.com/QLS-MiCM/Single-Cell-RNA-seq">Single-Cell RNA-seq</a><br>
+      3. <a href="https://github.com/QLS-MiCM/BootcampF22_singleCell_Clustering_trajectoryInference">Clustering & Trajectory</a>
+    </td>
+    <td>
+      1. <a href="https://github.com/QLS-MiCM/IntroToMolecularSimulations">Molecular Simulations</a><br>
+      2. <i>🚧 Gap: Protein Structure Prediction</i><br>
+      3. <i>🚧 Gap: Molecular Docking</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Pre-requisites</b></td>
+  </tr>
+  <tr>
+    <td>None</td>
+    <td>R Track + RNA-seq basics</td>
+    <td>Python Track</td>
+  </tr>
+</table>
