@@ -3,9 +3,9 @@
 **Welcome to the QLS-MiCM GitHub page!**
 
 <!-- org-stats-badges -->
-![Workshops](https://img.shields.io/badge/Workshops-37-blue?style=flat&logo=github&logoColor=white)
+![Workshops](https://img.shields.io/badge/Workshops-38-blue?style=flat&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/QLS-MiCM?style=flat&logo=github&label=Stars)
-![Contributors](https://img.shields.io/badge/Contributors-0-orange?style=flat&logo=github&logoColor=white)
+![Contributors](https://img.shields.io/badge/Contributors-44-orange?style=flat&logo=github&logoColor=white)
 <!-- /org-stats-badges -->
 
 This repository serves as our central training hub, hosting materials, resources, and code from the various QLS-MiCM workshops and training sessions.
