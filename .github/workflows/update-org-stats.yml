@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Recompute stats and push badge updates to main
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GH_ORG_SYNC_TOKEN || github.token }}
           script: |
@@ -36,8 +36,8 @@ jobs:
             const readmePath = 'profile/README.md';
             const badgeStart = '<!-- org-stats-badges -->';
             const badgeEnd = '<!-- /org-stats-badges -->';
-            const owner = github.context.repo.owner;
-            const repoName = github.context.repo.repo;
+            const owner = context.repo.owner;
+            const repoName = context.repo.repo;
 
             function isBot(contributor) {
               if (!contributor?.login) return true;
